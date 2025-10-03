@@ -3,7 +3,7 @@
 En este proyecto explicare conceptos relacionados con la virtualización 
 
 # Indice 
-* Concepto de la virtualización
+* [1. Concepto de la virtualización](uno.md)
 * tipos de virtualización
 * conclusiones
   
